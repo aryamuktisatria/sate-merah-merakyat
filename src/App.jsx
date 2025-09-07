@@ -29,11 +29,14 @@ function App() {
     </svg>
   );
 
-  const MenuIcon = () => (
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-      <path d="M3 12h18M3 6h18M3 18h18"/>
-    </svg>
-  );
+const MenuIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M3 12H21M3 6H21M3 18H21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="7" cy="6" r="1" fill="#FFF0C4"/>
+    <circle cx="7" cy="12" r="1" fill="#FFF0C4"/>
+    <circle cx="7" cy="18" r="1" fill="#FFF0C4"/>
+  </svg>
+);
 
   const SateIcon = ({ size = 24, className = "" }) => (
     <svg width={size} height={size} viewBox="0 0 100 100" fill="currentColor" className={className}>
