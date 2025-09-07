@@ -250,7 +250,7 @@ const MenuIcon = () => (
           
           {/* Subtitle */}
           <p className="subtitle">
-            ✨ Sate Ayam Rempah Terenak & Termurah di Jogja ✨
+            ✨ Sate Rempah Terenak & Termurah di Jogja ✨
           </p>
         </div>
 
