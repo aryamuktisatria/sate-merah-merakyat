@@ -138,7 +138,7 @@ function App() {
   const handleShare = async () => {
     const url = window.location.href;
     const title = 'Sate Merah Merakyat';
-    const text = 'Kunjungi halaman Linktree Sate Merah Merakyat! Sate terenak di kota!';
+    const text = 'Kunjungi halaman Linktree Sate Merah Merakyat! Sate terenak di Jogja!';
 
     if (navigator.share) {
       try {
