@@ -1,12 +1,32 @@
-# React + Vite
+# 🍢 Sate Merah Merakyat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website promosi modern untuk usaha sate rempah terenak dan termurah di Jogja! Website ini berfungsi sebagai menu digital, pemandu lokasi, dan hub komunikasi dengan pelanggan.
 
-Currently, two official plugins are available:
+![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
+![Vite](https://img.shields.io/badge/Vite-4.4.0-purple.svg)
+![Responsive](https://img.shields.io/badge/Design-Responsive-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Fitur Utama
 
-## Expanding the ESLint configuration
+- 📱 **Desain Responsif** - Tampilan optimal di semua perangkat
+- 🎨 **Animasi Menarik** - Efek visual modern dan interaktif
+- 📍 **Integrasi Maps** - Panduan lokasi langsung ke Google Maps
+- 💬 **WhatsApp Integration** - Hubungi langsung via WhatsApp
+- 📋 **Menu Digital** - Tampilan menu yang menarik dan informatif
+- 🔗 **Shareable Link** - Mudah berbagi ke media sosial
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Teknologi yang Digunakan
+
+- **Frontend Framework**: React 18
+- **Build Tool**: Vite
+- **Styling**: CSS3 dengan animasi custom
+- **Icons**: Custom SVG icons
+- **Deployment**: Vercel
+
+## 📦 Instalasi dan Menjalankan Lokal
+
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/aryamuktisatria/sate-merah-merakyat.git
+   cd sate-merah-merakyat
