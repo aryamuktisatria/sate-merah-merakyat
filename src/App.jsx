@@ -287,7 +287,7 @@ const MenuIcon = () => (
 
           {/* Maps button */}
           <a 
-            href="https://maps.app.goo.gl/P22qMZM9JPwcc8sb9"
+            href="https://maps.app.goo.gl/r4ETzaW2Lx3ogYX79"
             target="_blank"
             rel="noopener noreferrer"
             className="link-button maps-btn"
