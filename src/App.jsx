@@ -259,7 +259,7 @@ const MenuIcon = () => (
           
           {/* Menu button */}
           <a 
-            href="https://docs.google.com/spreadsheets/d/17mNlytPZhmhQ2CbiFGHM77tLEDtiSlqEbZ0yncwnSs0/edit?usp=drive_link"
+            href="https://drive.google.com/file/d/1Ac3B9rzCrj_GA50E-ZReVzRPo1QaGnoa/view?usp=drivesdk "
             target="_blank"
             rel="noopener noreferrer"
             className="link-button menu-btn"
